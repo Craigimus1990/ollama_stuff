@@ -1,0 +1,6 @@
+venv setup, since I know I'll forget it
+python3 -m venv .ollama-practice
+source .ollama-practice/bin/activate
+python3 -m pip install <package>
+
+deactivate
